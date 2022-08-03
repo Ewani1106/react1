@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Ewani1106/react1/issues"
   },
-  "homepage": "https://github.com/Ewani1106/react1#readme"
+  "homepage": "https://github.com/Ewani1106/react1#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "npx": "^3.0.0"
+  }
+  ,
+  "devDependencies": {
+    "graceful-fs": "^4.2.10"
+  }
 }
